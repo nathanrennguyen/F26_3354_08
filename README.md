@@ -9,5 +9,5 @@ In order to use the testing functions:
   2. Import the project as an existing project.
   3. Right click the HOSCalculatorTest.java file
   4. Hover over 'Run As'
-  5. Click JUnit
+  5. Click 'JUnit Test'
   6. See the results. An output like the image in the deliverable 4.2 should be visible.
